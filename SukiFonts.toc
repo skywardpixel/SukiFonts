@@ -4,6 +4,7 @@
 ## Author: Kyle
 ## Version: 1.0.0
 ## OptionalDeps: SharedMedia, LibSharedMedia-3.0
+## X-Curse-Project-ID: 1714958
 
 Libs\LibStub\LibStub.lua
 Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
