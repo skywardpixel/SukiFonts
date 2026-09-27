@@ -2,7 +2,7 @@
 ## Title: SukiFonts
 ## Notes: Adds Atkinson Hyperlegible Next and Cabin to LibSharedMedia-3.0
 ## Author: Kyle
-## Version: 1.0.0
+## Version: 1.0.1
 ## OptionalDeps: SharedMedia, LibSharedMedia-3.0
 ## X-Curse-Project-ID: 1714958
 
